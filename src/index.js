@@ -1,1 +1,1 @@
-console.log('hello wored')
+console.log('hello wored');
